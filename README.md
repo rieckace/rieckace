@@ -1,80 +1,79 @@
-<!-- Banner -->
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Rikesh Yadav</h1>
+<h3 align="center">💻 AI | ☁️ Cloud & DevOps | 🤖 AI Agents | 🌐 Computer Networks</h3>
+
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F700&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Rikesh!;🚀+AI+Engineer+%7C+Full-Stack+Developer;☁+Clouds+%26+DevOps+%7C+AI+Agents+Expert;💡+Exploring+LLMs,+Networks,+and+ML+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7F7&center=true&vCenter=true&width=500&lines=Software+Developer;AI+Enthusiast;Cloud+%26+DevOps+Learner;Problem+Solver" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🔭 Building **AI Agents** & **LLM-powered Applications**  
-- ☁ Skilled in **Clouds & DevOps**, **Computer Networks**, **AI/ML Systems**  
-- ⚡ Passionate about creating **scalable, real-world solutions**  
-- 📫 Reach me at: **[your email / LinkedIn / portfolio link]**
+## 🚀 About Me
+- 🌱 Currently working on **AI Agents & Cloud Projects**
+- 🧑‍💻 Interested in **DevOps, Computer Networks, and Applied AI**
+- 🎯 Goal: Build **scalable AI-driven systems** with modern cloud tech
+- 🏆 Competitive Programmer on **[LeetCode](https://leetcode.com/u/rieckace/)**
 
 ---
 
-## 🏆 GitHub Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RIECK-ACE&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" />
+## 🌐 Connect with Me
+<p align="left">
+<a href="https://github.com/rieckace"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/rieckace"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://leetcode.com/u/rieckace/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
+
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**AI & ML:**  
+![AI Agents](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RIECK-ACE&show_icons=true&theme=radical" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=RIECK-ACE&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rieckace&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rieckace&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rieckace&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIECK-ACE&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rieckace&theme=onedark&no-frame=true&row=2&column=4" />
 </p>
 
 ---
 
-## 💻 Tech Stack & Expertise  
-
-### 🚀 AI & Data Science  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-00599C?style=for-the-badge&logo=tensorflow&logoColor=white)  
-
-### ☁️ Clouds & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
-
-### 🌐 Computer Networks  
-![Networking](https://img.shields.io/badge/Computer_Networks-006699?style=for-the-badge&logo=cisco&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-
-### 🛠 Tools & Frameworks  
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=blue)  
-
----
-
-## 🚀 Featured Projects
-- 🧠 **MindMate** – AI Mental Health Companion (LangChain + Groq + Streamlit)  
-- 🎯 **Career Roadmap Visualizer** – Next.js App for career planning  
-- 🤖 **AI Agents for LeetCode** – Automated coding solution generator  
-- ☁ **Weather & News AI Assistant** – Real-time updates with APIs  
-
----
-
-## 🌐 Connect with Me
+## 💡 Random Dev Quote
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="mailto:yourmail@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://portfolio.com"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-⭐️ From [RIECK-ACE](https://github.com/RIECK-ACE)
+## 🔥 Contribution Graph
+[![Rikesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rieckace&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 👀 Profile Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rieckace&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+</p>
